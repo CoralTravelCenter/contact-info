@@ -1,0 +1,11 @@
+МОСКВА КОРАЛ
+
+<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Ad316f98d4c276ef22821ddd19b9d984e704d8bda0f0a52730b5d6eea6df6ea59&amp;source=constructor" width="677" height="561" frameborder="0"></iframe>
+
+СПБ КОРАЛ
+
+<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A764ed8534fb7cf68cffe8e297f77ea13e3bcfbb5abdc200493c3fb1677f0842e&amp;source=constructor" width="677" height="561" frameborder="0"></iframe>
+
+ПЕРМЬ КОРАЛ
+
+<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Ab6a286a96f953992734e4b8ff6d0e324db6127c23d2b6cbcee65bc6c2751eee9&amp;source=constructor" width="677" height="561" frameborder="0"></iframe>
